@@ -1,3 +1,5 @@
+## 역시 통신이 안되는중.....어떠헤 하는겨....흠..흠..
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
